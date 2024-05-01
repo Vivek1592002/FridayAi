@@ -4,12 +4,12 @@ import openai
 import os
 import speech_recognition as sr
 import pyttsx3
-
+from config import apikey
 chatkrlo = ""
 def chat(adesh):
     global chatkrlo
     print(chatkrlo)
-    openai.api_key = yaha apni api key daalna
+    api_key = apikey
     chatkrlo += f"Vivek : {adesh}\n Friday:"
     try:
         response = openai.Completion.create(
