@@ -1,0 +1,6 @@
+OpenAI response for Prompt: artificial intelligence using artificial intelligence what is artificial intelligence 
+ ***
+
+
+
+Artificial intelligence (AI) is an area of computer science that deals with the simulation of intelligent behavior in computers. AI methods have been used in a wide variety of fields, such as natural language processing, robotics, computer vision, data mining, and decision support systems. AI techniques rely on technologies that enable machines to learn from experience, adjust to new inputs and perform human-like tasks.
