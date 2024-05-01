@@ -9,7 +9,7 @@ chatkrlo = ""
 def chat(adesh):
     global chatkrlo
     print(chatkrlo)
-    api_key = apikey
+    openai.api_key = apikey
     chatkrlo += f"Vivek : {adesh}\n Friday:"
     try:
         response = openai.Completion.create(
